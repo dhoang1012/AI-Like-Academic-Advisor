@@ -1,0 +1,14 @@
+{
+  "name": "lesson2-computer-science-study-bot",
+  "version": "2.0.0",
+  "description": "Lesson 2 colorful computer science chatbot with multiple programming and computing topics",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Student",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
