@@ -1,7 +1,7 @@
 {
-  "name": "lesson2-computer-science-study-bot",
+  "name": "ai-like-academic-advisor",
   "version": "2.0.0",
-  "description": "Lesson 2 colorful computer science chatbot with multiple programming and computing topics",
+  "description": "SASN Rutgers-Newark Advisor Lite",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
