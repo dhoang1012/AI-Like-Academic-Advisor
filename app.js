@@ -8,7 +8,7 @@ app.use(express.json());
 
 // Topic keywords and response options
 const knowledgeBase = {
-    greeting: ["hello", "hi", "hey", "good morning", "good afternoon", "good evening"],
+    greeting: ["hello", "hi", "hey", "good morning", "good afternoon", "good evening", "what's up"],
     registration: ["register", "registration", "webreg", "enroll", "enrollment", "spn", "special permission number", "sign up for class", "register for class", "register for courses", "course registration", "can't register", "cannot register", "registering for a course", "registering for classes", "how do i register"],
     transferCredits: ["transfer credit", "transferred credit", "transfer credits", "transferred credits", "transfer", "transferred", "transfer my credit", "transfer my credits", "transfer course", "credit evaluation", "transfer from", "transferred to", "credits from another college", "transfer student", "accepted transfer credits", "community college credits"],
     graduationApplication: ["apply for graduation", "graduation application", "apply to graduate", "graduation form", "graduation deadline", "cap and gown", "graduate application", "graduation process", "submit graduation application", "where to apply for graduation", "graduation paperwork", "apply for my degree"],
